@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  table_calendar: ^3.0.9
+  file_picker: ^4.2.0
   flutter_svg: ^2.0.8
 
 
